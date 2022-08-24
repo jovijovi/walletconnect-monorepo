@@ -1,0 +1,9 @@
+version: '3.1'
+
+services:
+  wallet-connect-demo:
+    container_name: devenv_wallet_connect_demo
+    image: wallet-connect-demo:latest
+    restart: always
+    ports:
+      - "8060:8060"

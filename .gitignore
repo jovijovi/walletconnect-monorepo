@@ -6,3 +6,4 @@ dist
 zip
 .idea
 .rts2_cache_*
+/git.json
