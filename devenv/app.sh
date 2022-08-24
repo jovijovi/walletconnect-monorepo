@@ -33,4 +33,4 @@ fi
 
 echo "## Done."
 
-docker ps|grep ether-goblin
+docker ps|grep wallet-connect-demo
